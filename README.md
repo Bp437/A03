@@ -37,8 +37,8 @@ This is why downloading **GIT**  is important so Webstorm can auto-detect and fi
 13. Create a new file, then click HTML.
 
 14. Then add any appropriate syntx changes to the HTML file. Recommand: 
-<h1> This is the first headline</h1> 
-<p>A first paragraph</p>
+'<h1> This is the first headline</h1>' 
+'<p>A first paragraph</p>'
 
 15. Then on the top of the select bar in webstorm, click VCS. Then import into Version Control. Then create Git **Repository**. Then click OK.
 
