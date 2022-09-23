@@ -25,5 +25,15 @@ https://github.com/join
 The URL should be:  
 https://git-scm.com/downloads.
 
-9.
+9. On webstorm, go to setting. Then click Version Control-> Git.
+
+10.Make sure Path to Git executable is: C:\Program Files\Git\bin\git.exe. 
+This is why downloading **GIT**  is important so Webstorm can auto-detect and fill out the path for it.
+
+11. click exit.
+
+12. on the main page in Webstorm, create project. Make sure to give project name. Then click create.
+
+13. Create a new file, 
+
 
