@@ -43,7 +43,7 @@ This is why downloading **GIT**  is important so Webstorm can auto-detect and fi
 
 15. Then on the top of the select bar in webstorm, click VCS. Then import into Version Control. Then create Git **Repository**. Then click OK.
 
-16.
+16. Note: The VCS select may have changed from VCS to **GIT**.  Click VCS/**GIT**. Then click on **Commit** File. Then Click ** Commit**. 
 
 
 
