@@ -51,4 +51,7 @@ This is why downloading **GIT**  is important so Webstorm can auto-detect and fi
 
 . (Note: The VCS select may have changed from VCS to **GIT**).  Click VCS/**GIT**. Then click on **Commit** File. Then Click **Commit**. 
 
-. 
+. Click VCS/GIT then import into Version Control then Share Project on Github.
+
+.
+.  
