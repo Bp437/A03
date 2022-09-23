@@ -17,37 +17,38 @@ The URL should be:
 https://github.com/join
 
 
-In Github, create a new repository.
-(Finsh writng here.)
+.In Github, create a new **repository**. Make sure the to make the **repsository** Public.
+Give It the apporiate name. IS-117
 
-6. Now open Webstorm.
+.add the readme file, then click create
 
-7. Now check for updates in webstorm, Click the setting button (screw icon)-> then check for updates.
+. Now open Webstorm.
 
-8.Then download the latest version of **GIT**. 
+. Now check for updates in webstorm, Click the setting button (screw icon)-> then check for updates.
+
+.Then download the latest version of **GIT**. 
 
 The URL should be:  
 https://git-scm.com/downloads.
 
-9. On webstorm, go to setting. Then click Version Control-> Git.
+. On webstorm, go to setting. Then click Version Control-> Git.
 
-10.Make sure Path to Git executable is: C:\Program Files\Git\bin\git.exe. 
+.Make sure Path to Git executable is: C:\Program Files\Git\bin\git.exe. 
 This is why downloading **GIT**  is important so Webstorm can auto-detect and fill out the path for it.
 
-11. click exit.
+. click exit.
 
-12. on the main page in Webstorm, create project. Make sure to give project name. Then click create.
+. on the main page in Webstorm, create project. Make sure to give project name. Then click create.
 
-13. Create a new file, then click HTML.
+. Create a new file, then click HTML.
 
-14. Then add any appropriate syntx changes to the HTML file. Recommand: 
-<header 1> This is the first headline</header 1>
+. Then add any appropriate syntx changes to the HTML file. Recommand: 
+(h1) This is the first headline (/h1)
 
-<paragraph>A first paragraph</paragraph>
+(p)A first paragraph(/p)
 
-15. Then on the top of the select bar in webstorm, click VCS. Then import into Version Control. Then create Git **Repository**. Then click OK.
+. Then on the top of the select bar in webstorm, click VCS. Then import into Version Control. Then create Git **Repository**. Then click OK.
 
-16. Note: The VCS select may have changed from VCS to **GIT**.  Click VCS/**GIT**. Then click on **Commit** File. Then Click **Commit**. 
+. (Note: The VCS select may have changed from VCS to **GIT**).  Click VCS/**GIT**. Then click on **Commit** File. Then Click **Commit**. 
 
-
-
+. 
