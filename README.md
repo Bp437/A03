@@ -1,4 +1,6 @@
 # A03
+
+Part 1:
 Tutorial for Getting Jetbrains's webstorm and signing up for Github.
 
 1.Sign up with Jetbrains community by click student edition.
@@ -47,6 +49,8 @@ This is why downloading **GIT**  is important so Webstorm can auto-detect and fi
 
 (p)A first paragraph(/p)
 
+change () to <>.
+
 . Then on the top of the select bar in webstorm, click VCS. Then import into Version Control. Then create Git **Repository**. Then click OK.
 
 . (Note: The VCS select may have changed from VCS to **GIT**).  Click VCS/**GIT**. Then click on **Commit** File. Then Click **Commit**. 
@@ -55,3 +59,11 @@ This is why downloading **GIT**  is important so Webstorm can auto-detect and fi
 
 .
 .  
+
+Part 2:
+
+Glossary;
+
+
+
+
