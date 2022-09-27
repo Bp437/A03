@@ -57,8 +57,22 @@ change () to <>.
 
 . Click VCS/GIT then import into Version Control then Share Project on Github.
 
-.
-.  
+.Now it should be on the Internet, in your GITHUB account
+
+.Go back to Webstorm, and make changes.
+
+.Commit to Git by vcs/git->commit by clicking commit button
+
+.Then push by clicking vcs/git-> click push. Screen pops-up and push.
+
+.You will get a merge conflict pop-up, just click merge.
+
+.Now changes are add in Github
+
+.Now in your Github account, go to repository, go to setting.
+
+.Then submit your URL and you can view your HTML webpage.
+
 
 Part 2:
 
