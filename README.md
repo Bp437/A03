@@ -78,30 +78,30 @@ Part 2:
 
 Glossary;
 
-**Branch**
+**Branch** -
 
-**Clone**
+**Clone** -
 
-**Commit**
+**Commit** - 
 
-**Fetch**
+**Fetch** - 
 
-**GIT**
+**GIT** -
 
-**Github**
+**Github** -
 
-**Merge**
+**Merge** -
 
-**Merge Conflict**
+**Merge Conflict** -
 
-**Push**
+**Push** - 
 
-**Pull**
+**Pull** -
 
-**Remote**
+**Remote** -
 
-**Repository**
+**Repository** -
 
 
-
+References
 
