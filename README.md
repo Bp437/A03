@@ -78,17 +78,17 @@ Part 2:
 
 Glossary;
 
-**Branch** -
+**Branch** - copy of code
 
-**Clone** -
+**Clone** - creates a copy of a project on your local computer.
 
 **Commit** - 
 
 **Fetch** - 
 
-**GIT** -
+**GIT** - keeps track of each of version of each file in a project.
 
-**Github** -
+**Github** - an environment that allows you to store code/file on a remote server. Also allowing editing and deleting of code/file for others or yourself. 
 
 **Merge** -
 
@@ -100,7 +100,7 @@ Glossary;
 
 **Remote** -
 
-**Repository** -
+**Repository** - projects stored on GitHub.
 
 
 References
