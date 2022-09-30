@@ -76,32 +76,36 @@ change () to <>.
 
 Part 2:
 
-Glossary;
+Glossary:
 
-**Branch** - copy of code
+**Branch** - copy of code.
 
 **Clone** - creates a copy of a project on your local computer.
 
-**Commit** - 
+**Commit** - save points on Git inside your repository.
 
-**Fetch** - 
+**Fetch** - updates the remote tracking branch.
 
 **GIT** - keeps track of each of version of each file in a project.
 
-**Github** - an environment that allows you to store code/file on a remote server. Also allowing editing and deleting of code/file for others or yourself. 
+**GitHub** - an environment that allows you to store code/file on a remote server. Also allowing editing and deleting of code/file for others or yourself. 
 
-**Merge** -
+**Merge** - update the current branch with any new commits.
 
-**Merge Conflict** -
+**Merge Conflict** - branches that have commits going against each other.
 
-**Push** - 
+**Push** - uploads local branch commits to a remote branch of your repository.
 
-**Pull** -
+**Pull** - update your local branch and remote tracking branch.
 
-**Remote** -
+**Remote** - managing the local repository you are tracking.
 
 **Repository** - projects stored on GitHub.
 
 
-References
+References:
+
+https://github.com/git-guides 
+
+Guthal, Sarah. GitHub for dummies. John Wiley & sons, inc. Hoboken, NJ. 2019
 
