@@ -26,7 +26,7 @@ Give It the apporiate name. IS-117
 
 8. Now open Webstorm.
 
-9. Now check for updates in webstorm, Click the setting button (screw icon)-> then check for updates.
+9. Now check for updates in webstorm, Click the setting button.
 
 10.Then download the latest version of **GIT**. 
 
@@ -35,43 +35,41 @@ https://git-scm.com/downloads.
 
 11. On webstorm, go to setting. Then click Version Control-> Git.
 
-.Make sure Path to Git executable is: C:\Program Files\Git\bin\git.exe. 
+Make sure Path to Git executable is: C:\Program Files\Git\bin\git.exe. 
 This is why downloading **GIT**  is important so Webstorm can auto-detect and fill out the path for it.
 
-12. click exit.
+12. on the main page in Webstorm, create project..
 
-13. on the main page in Webstorm, create project. Make sure to give project name. Then click create.
+13. Create a new file, then click HTML.
 
-14. Create a new file, then click HTML.
-
-15. Then add any appropriate syntx changes to the HTML file. Recommand: 
+14. Then add any appropriate syntx changes to the HTML file. Recommand: 
 (h1) This is the first headline (/h1)
 
 (p)A first paragraph(/p)
 
 change () to <>.
 
-16. Then on the top of the select bar in webstorm, click VCS. Then import into Version Control. Then create Git **Repository**. Then click OK.
+15. Then on the top of the select bar in webstorm, click VCS. Then import into Version Control. Then create Git **Repository**.
 
-17. (Note: The VCS select may have changed from VCS to **GIT**).  Click VCS/**GIT**. Then click on **Commit** File. Then Click **Commit**. 
+16. (Note: The VCS select may have changed from VCS to **GIT**).  Click VCS/**GIT**. Then click on **Commit** File. Then Click **Commit**. 
 
-18. Click VCS/GIT then import into Version Control then Share Project on Github.
+17. Click VCS/GIT then import into Version Control then Share Project on Github.
 
-19.Now it should be on the Internet, in your GITHUB account
+18.Now it should be on the Internet, in your GITHUB account
 
-20.Go back to Webstorm, and make changes.
+19.Go back to Webstorm, and make changes.
 
-21.Commit to Git by vcs/git->commit by clicking commit button
+20.Commit to Git
 
-22.Then push by clicking vcs/git-> click push. Screen pops-up and push.
+21.Then push by clicking vcs/git-> click push.
 
-23.You will get a merge conflict pop-up, just click merge.
+22.You will get a merge conflict pop-up, just click merge.
 
-24.Now changes are add in Github
+23.Now changes are add in Github
 
-25.Now in your Github account, go to repository, go to setting.
+24.Now in your Github account, go to repository, go to setting.
 
-26.Then submit your URL and you can view your HTML webpage.
+25.Then submit your URL and you can view your HTML webpage.
 
 
 Part 2:
