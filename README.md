@@ -1,7 +1,7 @@
 # A03
 
 Part 1:
-Tutorial for Getting Jetbrains's webstorm and signing up for Github.
+Tutorial for Github.
 
 1.Sign up with Jetbrains community by click student edition.
 The URL should look something like this:
@@ -69,7 +69,35 @@ change () to <>.
 
 24.Now in your Github account, go to repository, go to setting.
 
-25.Then submit your URL and you can view your HTML webpage.
+25. Now add changes to HTML file on Github.
+
+26. Then on Webstorm go to GIT->Pull
+
+27. Now The changes will appear on Webstorm.
+
+28.Now go to the Repository.
+
+29. Create a new file. Copy your html code.
+
+30. Then create a new branch by giving it a name.
+
+31. Do a pull request on github.
+
+32. Then edit the file
+
+33. Then Merge the file to Github.
+
+34. Now go on webstorm GIT->Fetch
+
+35. Now you should see some changes on Webstorm and now access the file by opening the file.
+
+36. You merge the branch on GIThub.
+
+37. Now you can download the files on your GitHub account. 
+
+38. Just click code, I choose download zip file.
+
+39. now you have a code of your code.
 
 
 Part 2:
