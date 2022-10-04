@@ -97,7 +97,7 @@ change () to <>.
 
 38. Just click code, I choose download zip file.
 
-39. now you have a code of your code.
+39. now you have a copy of your code.
 
 
 Part 2:
